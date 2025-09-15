@@ -32,8 +32,9 @@ This project aims to analyze and predict customer churn for a telecommunications
 ## Key Results  
 - Logistic Regression & GAM outperform Linear Regression by a significant margin  
 - GAM captures non-linear relationships (e.g. for tenure, charges)  
-- Best performance in terms of AUC ~0.86; accuracy ~0.81–0.82  
-- Model struggles more with detecting churners (lower recall for churn class)  
+- Best performance in terms of AUC ~0.86; accuracy ~0.81–0.82
+- Logistic Regression had similar performance
+- Both models struggle more with detecting churners (lower recall for churn class)  
 
 ## Interpretability Insights  
 - Important features: Tenure, MonthlyCharges, TotalCharges, Contract type, InternetService  
