@@ -1,5 +1,5 @@
 # XAI_assignment2
-# Telco Customer Churn Prediction & Explainable AI (XAI) — Assignment 2
+# Telco Customer Churn Prediction & Explainable AI 
 
 ## Project Description  
 This project aims to analyze and predict customer churn for a telecommunications company using the Telco Customer Churn dataset. The goal is not only to build predictive models (Linear Regression, Logistic Regression, GAM) but also to ensure interpretability through assumption checks and explainable AI techniques.
