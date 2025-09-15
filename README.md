@@ -43,7 +43,4 @@ This project aims to analyze and predict customer churn for a telecommunications
 
 ## How to Run  
 1. Clone the repo  
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   # or pip install pandas sklearn pygam statsmodels seaborn matplotlib
+2. Run the notebook
